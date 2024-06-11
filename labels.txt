@@ -1,0 +1,2 @@
+0 AI cats
+1 Normal cats
